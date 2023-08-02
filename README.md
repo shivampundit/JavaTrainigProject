@@ -1,4 +1,6 @@
 # JavaTrainigProject
-This repository contains Basic java application and demos.
+This repository contains Basic java applications and demos.
+
+
 
 #### updating Readme Soon
